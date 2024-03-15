@@ -4,7 +4,7 @@
 docker-compose build --no-cache  
 docker-compose up -d
 
----または---
+---または---  
 docker-compose up --build -d
 
 ## Node.js Serverの立ち上げ
